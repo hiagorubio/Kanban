@@ -78,8 +78,7 @@ class Kanban extends React.Component{
                         );
                         }
                     )
-                    }
-                                   
+                    }              
                 </div>
             </div>
         )
